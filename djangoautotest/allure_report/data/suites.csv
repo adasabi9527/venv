@@ -1,0 +1,4 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"测试用户登录功能，预期用户登陆失败。","5575","test_login_wracpwd1[logindicterror20]","tests","Sat Oct 26 18:51:46 CST 2024","passed","Sat Oct 26 18:51:51 CST 2024","","test_login","",""
+"测试用户登录功能，预期用户能够成功登录系统。","1431","test_login[logindict0]","tests","Sat Oct 26 18:51:39 CST 2024","passed","Sat Oct 26 18:51:40 CST 2024","","test_login","",""
+"测试用户登录功能，预期用户登陆失败。","5637","test_login_wracpwd[logindicterror10]","tests","Sat Oct 26 18:51:40 CST 2024","passed","Sat Oct 26 18:51:46 CST 2024","","test_login","",""
